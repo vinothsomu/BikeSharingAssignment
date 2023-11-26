@@ -14,19 +14,6 @@
 - Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 - The company want to understand the factors affecting the demand for these shared bikes in the American market.
 - Find out the variables which are significant in predicting the demand for shared bikes. How well those variables describe the bike demands.
-- [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
-@article{
-	year={2013},
-	issn={2192-6352},
-	journal={Progress in Artificial Intelligence},
-	doi={10.1007/s13748-013-0040-3},
-	title={Event labeling combining ensemble detectors and background knowledge},
-	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
-	publisher={Springer Berlin Heidelberg},
-	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
-	author={Fanaee-T, Hadi and Gama, Joao},
-	pages={1-15}
-}
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -54,7 +41,20 @@ Created by [@vinothsomu] - feel free to contact me!
 
 
 <!-- Optional -->
-<!-- ## License -->
+## License for dataset
+- [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
+@article{
+	year={2013},
+	issn={2192-6352},
+	journal={Progress in Artificial Intelligence},
+	doi={10.1007/s13748-013-0040-3},
+	title={Event labeling combining ensemble detectors and background knowledge},
+	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
+	publisher={Springer Berlin Heidelberg},
+	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
+	author={Fanaee-T, Hadi and Gama, Joao},
+	pages={1-15}
+}
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
